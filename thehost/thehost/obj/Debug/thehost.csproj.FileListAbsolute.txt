@@ -1,1 +1,9 @@
 G:\alexrochaf\FACULDADE\4º Semestre\PIM\thehost\thehost\bin\Debug\thehost.exe.config
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\bin\Debug\thehost.exe.config
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\bin\Debug\thehost.exe
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\bin\Debug\thehost.pdb
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\obj\Debug\thehost.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\obj\Debug\thehost.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\obj\Debug\thehost.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\obj\Debug\thehost.exe
+C:\Users\user\Documents\GitHub\PIM-4\thehost\thehost\obj\Debug\thehost.pdb
